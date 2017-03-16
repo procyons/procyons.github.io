@@ -27,7 +27,7 @@ jQuery(document).ready(function($) {
             });
     }
 
-        var endDate = "march 3, 2017 00:00:00";
+        var endDate = "march 24, 2017 00:00:00";
 
         $('.countdown.simple').countdown({ date: endDate });
 
